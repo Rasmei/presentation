@@ -1,6 +1,6 @@
 <span id="a">rasmeipagna@toung</span>:<span id="b">~</span><span id="c">$</span> cd RasmeiPagnaToung/<!-- laglaglaglaglaglag -->About_Me
 <span id="a">rasmeipagna@toung</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->[rasmeipagnatoung].txt<br/><br/>
-My favorite quote: "<span id="k">Be water, my friend</span>". <!-- sjkfhskjf -->
+My favorite quote: "<span id="k">Be water my water</span>". <!-- sjkfhskjf -->
 
 Hi there! I am Rasmei-Pagna Toung.
 
@@ -20,7 +20,9 @@ the <a href="#" target="_blank">Project 3</a>
 You can also visit my other profiles here: 
 <a href="https://www.linkedin.com/in/rasmei-pagna-toung" target="_blank">LinkedIn</a> 
 <a href="https://github.com/rasmeipagna" target="_blank">Github</a>
-<a href="https://www.instagram.com/pagna_chhun/" target="_blank"> Instagram</a>.
+
+I code since <span id="demo" class="k2"></span>
+
 <br>
 Looking forward to hearing from you!</p>
 <br>

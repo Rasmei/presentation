@@ -28,9 +28,23 @@ a:last-child {
 #k {
   animation: change 1s;
 }
+.k2{
+	animation: change 1s;
+	color:  #F3C87A;
+}
 
 @keyframes change {
   0%  { color:  #F3C87A; }
   50% { color:  #F3C87A; }
   99% { color: black; }
 }
+/* COUNTDOWN */
+span#demo {
+	text-align: center;
+	font-size: 16px;
+	margin-top: 0px;
+	color:#fff;
+  }
+
+
+  
